@@ -4,6 +4,8 @@ from send_mail import send_mail
 
 app = Flask(__name__)
 
+# This will be changed to 'prod' in order to link up to heroku
+# You'll change the db uri to the heroku uri to connect the production db
 ENV = 'dev'
 
 if ENV == 'dev':
