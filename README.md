@@ -1,1 +1,1 @@
-My first foray into Python and using the Flask framework!
+My first foray into Python and the Flask framework!
